@@ -11,7 +11,7 @@ quotes[2]='There is a hidden message coded in the dinosaur genes from the Jurass
 
 quotes[3]='There are at least four kinds of venomous mammals.'
 
-quotes[4]='Bats are not mentioned in the original Dracula novel by Bram Stoker.'
+quotes[4]='Bats are only mentioned once in the original Dracula novel by Bram Stoker.'
 
 quotes[5]='Rats laugh when tickled.'
 
@@ -31,7 +31,7 @@ quotes[12]='Both cheetahs and Tasmanian devils suffered intense populational bot
 
 quotes[13]='The popular <i>Triceratops</i> may be an invalid dinosaur genus, being considered by some as a juvenile form of other genera.'
 
-quotes[14]='The research on antidepressants had almost no improvement for the last fifty years.'
+quotes[14]='The giant otters are extremely dangerous to humans, having killed a military man in a Brazilian zoo.'
 
 quotes[15]='<i>Theobroma</i>, the genus of cocoa plant, means \'food of the gods\'.'
 
